@@ -43,13 +43,13 @@ http://102.133.147.247
 ## 📷 Screenshots (Proof)
 
 ### Azure VM
-(Add screenshot here)
+![VM](vm-overview.png)
 
 ### Networking (NSG Rules)
-(Add screenshot here)
+![NSG](nsg-rules.png)
 
 ### Website Running
-(Add screenshot here)
+![Website](website-live.png)
 
 ---
 
