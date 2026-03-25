@@ -48,6 +48,12 @@ http://102.133.147.247
 ### Networking (NSG Rules)
 ![NSG](nsg-rules.png)
 
+### SSH Connection
+![SSH](ssh-connection.png)
+
+### NGINX Status
+![NGINX](nginx-status.png)
+
 ### Website Running
 ![Website](website-live.png)
 
